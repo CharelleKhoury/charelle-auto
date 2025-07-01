@@ -99,4 +99,4 @@ Feel free to use, modify, and build upon it for your own automotive or dealershi
 
 ---
 
-**Charelle Auto Auto Verse** — Explore.
+**Charelle Auto** — Explore.
